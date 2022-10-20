@@ -17,7 +17,7 @@ and mobile development.
 
 <div style="align-self: center;align-items: center; display: flex; justify-content: space-between; width: 150px;" >
     <a href="https://www.linkedin.com/in/henrique-pelanda/">
-    <img src="https://github.com/zilla3k/zilla3k/raw/master/github/linkedin.png" alt="LinkedIn" height="50">
+    <img src="https://github.com/Zilla3k/zilla3k/blob/main/github/linkedin.png" alt="LinkedIn" height="50">
   </a>
 </div>
 
