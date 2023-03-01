@@ -21,6 +21,8 @@ and mobile development.
   </a>
 </div>
 
+[![My Skills](https://skillicons.dev/icons?i=js,react,ts,nodejs,html,css,styledcomponents,git,github,figma)](https://skillicons.dev)
+
 <!--
 **Zilla3k/Zilla3k** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
