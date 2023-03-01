@@ -14,15 +14,17 @@ and mobile development.
 
 [![Zilla3k github stats](https://github-readme-stats.vercel.app/api?username=zilla3k&show_icons=true&theme=radical&bg_color=30,0d0d0d,191919&title_color=fff&text_color=fff&icon_color=79ff97)](https://github.com/anuraghazra/github-readme-stats)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=zilla3k&layout=compact&theme=radical&bg_color=30,0d0d0d,191919&title_color=fff&text_color=fff&icon_color=79ff97)](https://github.com/anuraghazra/github-readme-stats)
+    
+<div align="start" >
+### Minhas Skils 
+    
+[![My Skills](https://skillicons.dev/icons?i=js,react,ts,nodejs,html,css,styledcomponents,git,github,figma)](https://skillicons.dev)
 
-<div style="align-self: center;align-items: center; display: flex; justify-content: space-between; width: 150px;" >
+<div style="align-self: center;align-items: start; display: flex; justify-content: start; width: 150px;" >
     <a href="https://www.linkedin.com/in/henrique-pelanda/">
     <img src="https://github.com/Zilla3k/zilla3k/blob/main/github/linkedin.png" alt="LinkedIn" height="50">
   </a>
 </div>
-
-[![My Skills](https://skillicons.dev/icons?i=js,react,ts,nodejs,html,css,styledcomponents,git,github,figma)](https://skillicons.dev)
-
 <!--
 **Zilla3k/Zilla3k** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
