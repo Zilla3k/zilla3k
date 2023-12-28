@@ -1,4 +1,4 @@
-### Hi there 👋
+### Olá 👋
 
 Olá, meu nome é Henrique.
 Eu tenho 22 anos e sou formado em Gestão de Tecnologia da Informação, 
