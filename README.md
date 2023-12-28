@@ -1,21 +1,27 @@
 ### Hi there 👋
 
-I'm a Student Full Stack Developer Passionate about the best web and mobile
-development technologies. I have experience with projects using JavaScript,
-Typescript, ReactJS. I'm a student at Origamid
-and Programador Br, where I learned in practice on the most modern technologies of web, systems
-and mobile development.
+Olá, meu nome é Henrique.
+Eu tenho 22 anos e sou formado em Gestão de Tecnologia da Informação, 
+e estou me graduando em Ciência da Computação, me formo em Junho de 2027, 
+além de estar estudando por conta, as atuais tecnologias de desenvolvimento e 
+de Ui/Ux Design. Meus principais conhecimentos são em 
+Java, NodeJs, API REST, TypeScript, React, HTML, CSS e JavaScript, e 
+possuo boas noções utilizando Kotlin.
 
-- 🔭 I’m currently working on Projects.
-- 🌱 I have experience with JavaScript, ReactJS and Node.js.
-- See my LinkedIn: [Henrique P Possebon](https://www.linkedin.com/in/henrique-pelanda/)
+Atualmente estou estudando Java e Kotlin.
 
+- 💻 Eu tenho experiência com JavaScript, ReactJS e Node.js.
+- 🌱 Atualmente estou aprendendo Java e Kotlin.
+- LinkedIn: [Henrique P Possebon](https://www.linkedin.com/in/henrique-pelanda/)
 
 <div align="center" >
+    
+![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=21t4fsaou6y4gx3tnv3mmhviq&cover_image=true&theme=novatorem&show_offline=true&background_color=121212&interchange=true&bar_color=53b14f&bar_color_cover=true)
+
 
 ![Zilla3k github stats](https://github-readme-stats.vercel.app/api?username=zilla3k&show_icons=true&theme=radical&bg_color=30,0d0d0d,191919&title_color=fff&text_color=fff&icon_color=79ff97)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=zilla3k&layout=compact&theme=radical&bg_color=30,0d0d0d,191919&title_color=fff&text_color=fff&icon_color=79ff97)
-    
+
 
 ### Minhas Techs
     
@@ -33,17 +39,3 @@ and mobile development.
         <img src="https://skillicons.dev/icons?i=twitter" alt="Twitter" height="50">
     </a>
 </div> 
-<!--
-**Zilla3k/Zilla3k** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
