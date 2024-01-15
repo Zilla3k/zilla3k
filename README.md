@@ -3,7 +3,7 @@
 Olá, meu nome é Henrique.
 Eu tenho 22 anos e sou formado em Gestão de Tecnologia da Informação, 
 e estou me graduando em Ciência da Computação, me formo em Junho de 2027, 
-além de estar estudando por conta, as atuais tecnologias de desenvolvimento e 
+além de estar estudando por conta as atuais tecnologias de desenvolvimento e 
 de Ui/Ux Design. Meus principais conhecimentos são em 
 Java, NodeJs, API REST, TypeScript, React, HTML, CSS e JavaScript, e 
 possuo boas noções utilizando Kotlin.
