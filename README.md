@@ -2,9 +2,7 @@
 
 Olá, me chamo Henrique e tenho 23 anos, sou formado em Gestão de Tecnologia da Informação, e estou me graduando em Ciência da Computação, me formo em Junho de 2027.
 
-Estou estudando SAP ABAP com auxilio do [Grandes Projetos](https://grandesprojetos.com.br), e também tenho conhecimento nas tecnologias de desenvolvimento web.
-
-
+Estou estudando SAP ABAP com auxilio do [Grandes Projetos](https://grandesprojetos.com.br/), e também tenho conhecimento nas tecnologias de desenvolvimento web.
 
 Ainda não possuo XP suficiente para a primeira a oportunidade, poderia me ajudar com isso? Aceito ser aprendiz.
 
