@@ -1,17 +1,13 @@
 ### Olá 👋
 
-Olá, meu nome é Henrique.
-Eu tenho 22 anos e sou formado em Gestão de Tecnologia da Informação, 
-e estou me graduando em Ciência da Computação, me formo em Junho de 2027, 
-além de estar estudando por conta as atuais tecnologias de desenvolvimento e 
-de Ui/Ux Design. Meus principais conhecimentos são em 
-Java, NodeJs, API REST, TypeScript, React, HTML, CSS e JavaScript, e 
-possuo boas noções utilizando Kotlin.
+Olá, me chamo Henrique e tenho 23 anos, sou formado em Gestão de Tecnologia da Informação, e estou me graduando em Ciência da Computação, me formo em Junho de 2027.
 
-Atualmente estou estudando Java e Kotlin.
+Estou estudando SAP ABAP com auxilio do [Grandes Projetos](https://grandesprojetos.com.br/), e também tenho conhecimento nas tecnologias de desenvolvimento web.
 
-- 💻 Eu tenho experiência com JavaScript, ReactJS e Node.js.
-- 🌱 Atualmente estou aprendendo Java e Kotlin.
+Ainda não possuo XP suficiente para a primeira a oportunidade, poderia me ajudar com isso? Aceito ser aprendiz.
+
+- 💻 Atualmente tenho experiência com JavaScript e Node.js.
+- 🌱 Atualmente estou aprendendo SAP ABAP.
 - LinkedIn: [Henrique P Possebon](https://www.linkedin.com/in/henrique-pelanda/)
 
 <div align="center" >
@@ -20,12 +16,12 @@ Atualmente estou estudando Java e Kotlin.
 
 ![Zilla3k github stats](https://github-readme-stats.vercel.app/api?username=zilla3k&show_icons=true&theme=radical&bg_color=30,0d0d0d,191919&title_color=fff&text_color=fff&icon_color=79ff97)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=zilla3k&theme=radical&bg_color=30,0d0d0d,191919&title_color=fff&text_color=fff&icon_color=79ff97)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=zilla3k&layout=compact)
 
 
 ### Minhas Techs
     
-[![My Skills](https://skillicons.dev/icons?i=java,kotlin,js,react,ts,html,css,git)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=java,js,ts,git)](https://skillicons.dev)
 
 ### IDEs
 [![My Skills](https://skillicons.dev/icons?i=vscode,idea)](https://skillicons.dev)
