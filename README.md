@@ -9,7 +9,13 @@
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=zilla3k&layout=compact)
 
 ### Principais Techs
-[![My Skills](https://skillicons.dev/icons?i=java,js)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=java,js,angular,react,flutter,cs,dotnet)](https://skillicons.dev)
 
 ### Principais IDE
-[![My Skills](https://skillicons.dev/icons?i=vscode,idea)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=vscode,visualstudio,idea)](https://skillicons.dev)
+
+### Database
+[![My Skills](https://skillicons.dev/icons?i=mysql,mongodb,postgres,supabase)](https://skillicons.dev)
+
+### Outros
+[![My Skills](https://skillicons.dev/icons?i=git,postman)](https://skillicons.dev)
